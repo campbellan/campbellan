@@ -1,4 +1,4 @@
-## Hi there 👋
+HI, I'm Amy, an IT Professional
 
 <!--
 **campbellan/campbellan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
